@@ -15,3 +15,5 @@ console.log('--> Exercise 1    finished \n');
 //
 // Ex. 1 finished
 //
+
+console.log('check git');
